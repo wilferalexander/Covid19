@@ -1,8 +1,6 @@
 # Covid19
-covid_geo_chart.html
-
+---
 # **PROBLEMA DE NEGOCIO**
-
 
 ---
 
