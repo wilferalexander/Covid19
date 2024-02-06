@@ -1,15 +1,14 @@
 # Covid19
-BootCamp del profe alejo trabajaremos el problema de covid
 
 
-#**PROBLEMA DE NEGOCIO**
+# **PROBLEMA DE NEGOCIO**
 
 
 ---
 
 Una entidad gubernamental responsable de la gestión de la salud en un país enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia. Como científico de datos, tu tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas clave:
 
-### **Preguntas**
+ **Preguntas**
 Preguntas
 
 1.  ¿Cómo ha evolucionado el Covid-19 en el país en comparación con el impacto observado a nivel global?
@@ -28,10 +27,9 @@ Preguntas
 
 8.    ¿Cómo ha evolucionado el número de muertes por COVID-19 a lo largo del tiempo?
 
+---
 
-
-#**Herramientas utilizadas**
------
+**Herramientas utilizadas**
 
     1. Colab
     2. Python
@@ -43,3 +41,9 @@ Preguntas
         sklearn
         plotly
         
+---
+**Resultados Analisis**
+
+
+
+
