@@ -3,6 +3,7 @@
 # **PROBLEMA DE NEGOCIO**
 
 ---
+https://wilferalexander.github.io/Graficos/Caracter%C3%ADsticas%20Demogr%C3%A1ficas%20m%C3%A1s%20Relevantes%20-%20Covid19
 
 Una entidad gubernamental responsable de la gestión de la salud en un país enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia. Como científico de datos, tu tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas clave:
 
