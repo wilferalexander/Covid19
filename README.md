@@ -29,3 +29,17 @@ Preguntas
 8.    ¿Cómo ha evolucionado el número de muertes por COVID-19 a lo largo del tiempo?
 
 
+
+#**Herramientas utilizadas**
+-----
+
+    1. Colab
+    2. Python
+    3 .Librerías:
+        Pandas
+        Numpy
+        Matplotlib
+        StringIO
+        sklearn
+        plotly
+        
