@@ -92,9 +92,44 @@ Preguntas
 
 ![image](https://github.com/wilferalexander/Covid19/assets/16104315/6a0d8d21-6d4c-470b-8536-edbc182b0f71)
 
+**Concluciones**
 
 
 
+# **Conclusiones y Recomendaciones Finales**
+
+1.	Se destaca que Estados Unidos, India y China son los países con los porcentajes más altos acumulados de casos y muertes durante toda la pandemia.
+2.	Entre los países evaluados, México muestra el porcentaje más alto, seguido de Colombia.
+3.	En cuanto a nuevos casos, Estados Unidos, India y China lideran, siendo México el país evaluado con el porcentaje más alto.
+4.	Nuevamente, en este aspecto, México encabeza la lista de los países evaluados.
+5.	Sudan, Perú y China son los países con los porcentajes más altos de letalidad.
+6.	En los países evaluados, Perú tiene el porcentaje más alto, seguido de México y, en última instancia, Colombia. Se destaca que esta evaluación debe considerarse en relación con la población de cada país.
+7.	Estados Unidos, Brasil e India lideran en porcentajes de nuevas muertes por país.
+8.	En este caso, México tiene el porcentaje más alto entre los países evaluados, seguido de Perú y, en último lugar, Colombia.
+9.	Respecto a los "New Cases", se observa una tendencia ascendente entre 2021 y 2022, seguida de un descenso. A partir de 2023, se evidencia un crecimiento nuevamente, con una disminución significativa para 2024, alcanzando índices muy bajos.
+10.	Para "Cumulative_cases" en 2024, el total de casos acumulados supera los 774 millones de personas afectadas por COVID-19.
+11.	En "New_deaths", se nota un pico fuerte durante el periodo 2020-2023, con una disminución considerable en 2024.
+12.	"Cumulative_deaths" indica que el total de muertes supera los 7 millones desde el inicio de la pandemia.
+13.	El "lethality_rate" muestra un índice muy bajo para estas fechas.
+
+En general, la gestión del COVID-19 en Colombia, Perú y México ha sido efectiva en comparación con otros países. Sin embargo, la tasa de evolución en estos tres países es más alta que en los otros diez países analizados, subrayando la necesidad continua de vigilancia y medidas preventivas. La comparación con los países de mayor índice de evolución destaca la importancia de mantener estrategias efectivas de mitigación y respuesta para proteger la salud pública.
+
+**Conclusiones - Perú**
+1.	Entre diciembre de 2021 y enero de 2022, Perú experimentó un elevado número de nuevos casos, atribuido a la tercera ola causada por la variante Omicrón, con un reporte de 28,000 casos en un solo día.
+2.	En julio de 2022, otro repunte en nuevos casos se relacionó con la variante Delta, registrando hasta 11,000 casos semanales.
+3.	A finales de 2022, el aumento de casos se vinculó al fin del estado de emergencia, que concluyó el 26 de octubre de 2022.
+
+**Conclusiones - México**
+1.	En junio de 2021, México experimentó un aumento de casos debido a la aparición de la variante Delta.
+2.	A principios de 2022, un elevado número de casos y muertes se relacionaron con la variante B117, con 438,166 nuevos casos reportados en un solo mes.
+3.	En junio de 2022, otro repunte se vinculó a la variante Delta, aunque el número de decesos se controló gracias al proyecto de vacunación.
+4.	En diciembre de 2022, el aumento de casos se atribuyó a la llegada de la variante Omicrón.
+
+**Conclusiones - Colombia**
+1.	Entre noviembre y diciembre de 2020, Colombia experimentó la segunda ola de contagios.
+2.	De marzo de 2021 a abril de 2022, se inició la tercera ola debido a la variante Delta, con el surgimiento de las variantes P1 y B117.
+3.	En enero de 2022, se mantuvo la tercera ola con un repunte de nuevos casos, atribuido a la variante Omicrón, generando más de 30,000 casos diarios.
+Estas conclusiones resaltan la importancia de adaptar estrategias continuas para hacer frente a las distintas variantes del virus y la necesidad de mantener medidas preventivas y de respuesta.
 
 
 
