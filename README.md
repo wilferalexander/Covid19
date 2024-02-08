@@ -6,6 +6,9 @@
 
 Una entidad gubernamental responsable de la gestión de la salud en un país enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia. Como científico de datos, tu tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas clave:
 
+[lethality_rate (Top 10 + Colombia, México, Perú](https://github.com/wilferalexander/Graficos/blob/main/lethality_rate%20(Top%2010%20%2B%20Colombia%2C%20M%C3%A9xico%2C%20Per%C3%BA)
+
+
  **Preguntas**
 Preguntas
 
@@ -32,12 +35,12 @@ Preguntas
     1. Colab
     2. Python
     3 .Librerías:
-        Pandas
-        Numpy
-        Matplotlib
-        StringIO
-        sklearn
-        plotly
+       -  Pandas
+       -  Numpy
+       -  Matplotlib
+       -  StringIO
+       -  sklearn
+       -  plotly
         
 ---
 **Resultados Analisis**
