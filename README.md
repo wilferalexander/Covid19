@@ -45,11 +45,12 @@ Preguntas
 6.    ¿Cuál ha sido la evolución de los nuevos decesos diarios reportados de Covid-19 en México-Perú-Colombia a lo largo del tiempo?
 
 7.    ¿Cómo evolucionan los casos acumulados en todos los países a nivel mundial - Gráfico Coroplético?
+  
 
-       https://davidcarrillo10288.github.io/grafico-interactivo/grafico_interactivo.html
-  ---
-       https://davidcarrillo10288.github.io/grafico-interactivo/covid_geo_chart.html
-  ---
+      grafico interactivo  https://davidcarrillo10288.github.io/grafico-interactivo/grafico_interactivo.html
+
+       grafico interactivo  https://davidcarrillo10288.github.io/grafico-interactivo/covid_geo_chart.html
+
 
 8 .    ¿Cómo ha evolucionado el número de muertes por COVID-19 a lo largo del tiempo?
 
