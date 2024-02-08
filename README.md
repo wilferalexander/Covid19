@@ -47,6 +47,7 @@ Preguntas
 7.    ¿Cómo evolucionan los casos acumulados en todos los países a nivel mundial - Gráfico Coroplético?
 
        https://davidcarrillo10288.github.io/grafico-interactivo/grafico_interactivo.html
+  ---
        https://davidcarrillo10288.github.io/grafico-interactivo/covid_geo_chart.html
   ---
 
