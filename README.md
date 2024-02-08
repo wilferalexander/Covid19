@@ -56,7 +56,7 @@ Preguntas
 
          Progreso de Muertes por COVID-19 - Top 20 Países.mp4
 
-         https://github.com/wilferalexander/Graficos/blob/main/Progreso%20de%20Muertes%20por%20COVID-19%20-%20Top%2020%20Pa%C3%ADses.mp4
+      
          
 
    
