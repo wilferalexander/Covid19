@@ -6,6 +6,7 @@
 
 Una entidad gubernamental responsable de la gestión de la salud en un país enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia. Como científico de datos, tu tarea es analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas clave:
 
+[VIDEO COROPLÉTICO INTERACTIVO - CASOS ACUMULADOS COVID19 - WORLDWIDE Segundo Gráfico Interactivo](https://davidcarrillo10288.github.io/grafico-interactivo/grafico_interactivo.html)
 
 
  **Preguntas**
@@ -40,13 +41,23 @@ Preguntas
       ![image](https://github.com/wilferalexander/Covid19/assets/16104315/ede70bd2-670b-4976-9174-eb503ed39357)
       ![image](https://github.com/wilferalexander/Covid19/assets/16104315/4463b699-5246-4de6-9e48-d2b866e9a183)
 
+---    
+6.    ¿Cuál ha sido la evolución de los nuevos decesos diarios reportados de Covid-19 en México-Perú-Colombia a lo largo del tiempo?
 
-    
-7.    ¿Cuál ha sido la evolución de los nuevos decesos diarios reportados de Covid-19 en México-Perú-Colombia a lo largo del tiempo?
+7.    ¿Cómo evolucionan los casos acumulados en todos los países a nivel mundial - Gráfico Coroplético?
 
-8.    ¿Cómo evolucionan los casos acumulados en todos los países a nivel mundial - Gráfico Coroplético?
+       https://davidcarrillo10288.github.io/grafico-interactivo/grafico_interactivo.html
+       https://davidcarrillo10288.github.io/grafico-interactivo/covid_geo_chart.html
+  ---
 
-9.    ¿Cómo ha evolucionado el número de muertes por COVID-19 a lo largo del tiempo?
+8 .    ¿Cómo ha evolucionado el número de muertes por COVID-19 a lo largo del tiempo?
+
+         Progreso de Muertes por COVID-19 - Top 20 Países.mp4
+
+         https://github.com/wilferalexander/Graficos/blob/main/Progreso%20de%20Muertes%20por%20COVID-19%20-%20Top%2020%20Pa%C3%ADses.mp4
+         
+
+   
 
 ---
 
